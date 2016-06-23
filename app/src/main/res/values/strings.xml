@@ -2,9 +2,9 @@
     <string name="app_name">My App Portfolio</string>
     <string name="title">My Nanodegree Apps!</string>
     <string name="popular_movies_button">POPULAR MOVIES</string>
-    <string name="stock_hawk_b"></string>
     <string name="stock_hawk_button">STOCK HAWK</string>
     <string name="build_bigger_button">BUILD IT BIGGER</string>
     <string name="make_material_button">MAKE YOUR APP MATERIAL</string>
-    <string name="go_ubiquitous_button">GO UBIQUITION</string>
+    <string name="go_ubiquitous_button">GO UBIQUITOUS</string>
+    <string name="capstone_button">CAPSTONE</string>
 </resources>

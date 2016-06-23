@@ -13,36 +13,62 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/title"/>
+        android:layout_margin="4dp"
+        android:text="@string/title"
+        android:textSize="20sp"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/popular_movies_button"
+        android:layout_width="210dp"
         android:layout_height="wrap_content"
-        android:text="@string/popular_movies_button"/>
+        android:layout_margin="4dp"
+        android:text="@string/popular_movies_button"
+        android:background="#2e3d49"
+        android:textColor="#ffffff"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/stock_hawk_button"
+        android:layout_width="210dp"
         android:layout_height="wrap_content"
-        android:text="@string/stock_hawk_button"/>
+        android:layout_margin="4dp"
+        android:text="@string/stock_hawk_button"
+        android:background="#2e3d49"
+        android:textColor="#ffffff"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/build_it_bigger_button"
+        android:layout_width="210dp"
         android:layout_height="wrap_content"
-        android:text="@string/build_bigger_button"/>
+        android:layout_margin="4dp"
+        android:text="@string/build_bigger_button"
+        android:background="#2e3d49"
+        android:textColor="#ffffff"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/make_material_button"
+        android:layout_width="210dp"
         android:layout_height="wrap_content"
-        android:text="@string/make_material_button"/>
+        android:layout_margin="4dp"
+        android:text="@string/make_material_button"
+        android:background="#2e3d49"
+        android:textColor="#ffffff"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/go_ubiquitous_button"
+        android:layout_width="210dp"
         android:layout_height="wrap_content"
-        android:text="@string/go_ubiquitous_button"/>
+        android:layout_margin="4dp"
+        android:text="@string/go_ubiquitous_button"
+        android:background="#2e3d49"
+        android:textColor="#ffffff"/>
 
     <Button
-        android:layout_width="wrap_content"
+        android:id="@+id/capstone_button"
+        android:layout_width="210dp"
         android:layout_height="wrap_content"
-        android:text="@android/:capstong_button"/>
+        android:layout_margin="4dp"
+        android:text="@string/capstone_button"
+        android:background="#2e3d49"
+        android:textColor="#ffffff"/>
 
 </LinearLayout>
